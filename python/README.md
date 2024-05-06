@@ -1,5 +1,4 @@
 
-
 ## Introduction
 
 Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It is widely used in various domains, including web development, data science, artificial intelligence, and automation. This README provides an overview of Python's best frameworks, libraries, applications, and recommended functionalities.
